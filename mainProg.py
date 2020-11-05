@@ -5,7 +5,7 @@ from firebase import firebase
 import json
 import urllib.request
 
-TOKEN = "Your own token"
+TOKEN = "1453982565:AAGnKUHfhouvJ1rlodw8uHRvsyEmOS_iM9k"
 
 #set up firebase connection
 firebase = firebase.FirebaseApplication("Your own app",None)
